@@ -1,0 +1,24 @@
+body {
+    background: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: purple;
+}
+
+button {
+    background: purple;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
